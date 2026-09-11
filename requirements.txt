@@ -3,3 +3,9 @@ requests-cache
 retry-requests
 numpy
 pandas
+dotenv
+langchain-google-genai
+langchain-core
+langchain
+deepagents
+streamlit

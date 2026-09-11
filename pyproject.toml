@@ -5,9 +5,16 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "deepagents>=0.7.13",
+    "dotenv>=0.9.9",
+    "langchain>=1.4.0",
+    "langchain-core>=1.6.2",
+    "langchain-google-genai>=4.4.0",
     "numpy>=2.5.3",
     "openmeteo-requests>=1.7.5",
     "pandas>=3.0.5",
+    "python-dotenv>=1.2.3",
     "requests-cache>=1.3.3",
     "retry-requests>=2.0.0",
+    "streamlit>=1.63.0",
 ]
