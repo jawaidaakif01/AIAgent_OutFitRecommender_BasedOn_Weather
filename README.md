@@ -65,7 +65,7 @@ The agent doesn't need the location or number of hours as separate structured in
 ### 1. Clone and create a virtual environment
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/jawaidaakif01/AIAgent_OutFitRecommender_BasedOn_Weather.git
 cd outfit-recommender
 python -m venv venv
 
